@@ -14,5 +14,4 @@ Les croix présentes sur le damier sont les positions gagnantes, vous y gagnez d
 - Exécutez la commande suivante dans le même terminal: java Start Wythoff1 ou java Start Wythoff2
 
 ## Contact
-Paul Vrignaud
-paulvrignaud@orange.fr
+Paul Vrignaud - paulvrignaud@orange.fr
